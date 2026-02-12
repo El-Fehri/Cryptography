@@ -1,1 +1,6 @@
 # Cryptography
+### This repos contains cryptographic algorithms of encryption, key exchange, signature ... over multiple fields such as :
+### 1. Elliptic Curves: ECDH, ECDSA, SchnorrSig, ElGamal ...
+### 2. Number Theory (comming) : RSA , AES, DES, ...
+### 3. Error correcting codes : McEliece, Niederreiter
+### 4. Lattice-Based (comming)
